@@ -1,4 +1,4 @@
-# AI Model Backend
+# Backend of AI Model
 
 A FastAPI-based REST API for disease prediction using a machine learning model with 24 input features.
 
